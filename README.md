@@ -126,17 +126,21 @@
 
 ## 🚦 Running the Project
 
-download source code from Github 💾
-`git clone https://github.com/DogukanUrker/flaskBlog.git`
+Download source code from Github 💾
+####
+    git clone https://github.com/SumonPaul18/BlogSite-Flask-Python-1.git
 
-go to directory 📁
-`cd flaskBlog`
+Go to directory 📁
+####
+    cd BlogSite-Flask-Python-1
 
 install requirements.txt 🔽
-`pip install -r requirements.txt`
+####
+    pip install -r requirements.txt
 
 it's ready to run 🎉
-`python app.py`
+####
+    python app.py
 
 ### 🧑🏻‍💼 Default Admin Account
 
