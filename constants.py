@@ -106,10 +106,11 @@ SMTP_SERVER = "smtp.gmail.com"  # (str)
 SMTP_PORT = 587  # (int)
 
 # SMTP mail address
-SMTP_MAIL = "flaskblogdogukanurker@gmail.com"  # (str)
+#SMTP_MAIL = "flaskblogdogukanurker@gmail.com"  # (str)
+SMTP_MAIL = "sumonpaul267@gmail.com"  # (str)
 
 # SMTP mail password
-SMTP_PASSWORD = "lsooxsmnsfnhnixy"  # (str)
+SMTP_PASSWORD = "cjvl hcee wpsg nyhj"  # (str)
 
 
 ### DEFAULT ADMIN ACCOUNT SETTINGS ###
