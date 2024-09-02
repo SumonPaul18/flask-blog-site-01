@@ -128,11 +128,11 @@
 
 Download source code from Github 💾
 ####
-    git clone https://github.com/SumonPaul18/BlogSite-Flask-Python-1.git
+    git clone https://github.com/SumonPaul18/flask-blog-site-01.git
 
 Go to directory 📁
 ####
-    cd BlogSite-Flask-Python-1
+    cd flask-blog-site-01
 
 install requirements.txt 🔽
 ####
